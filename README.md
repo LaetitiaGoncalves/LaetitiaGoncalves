@@ -32,7 +32,7 @@
 
 <h2>⚡️ My Stats</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaetitiaGoncalves&theme=dark&locale=fr)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaetitiaGoncalves&theme=dark&locale=en)](https://git.io/streak-stats)
 
 
 
