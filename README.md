@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi, I’m Laetitia Gonçalves ! 👋🏼</h1>
+<h1 align="center">Hi, I’m Laëtitia Gonçalves ! 👋🏼</h1>
 
 <h2>👩🏻‍💻 About Me</h2>
 
