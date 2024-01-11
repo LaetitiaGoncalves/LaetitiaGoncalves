@@ -16,7 +16,7 @@
 
 <p> I'm a junior web developer from France 🇫🇷, and I'm currently looking for an internship near Paris! </p>
 <p> 🎨 I'm also a web designer : I often use Figma and Adobe Creative Suite. </p> 
-<p> 🌱 I would like to learn TypeScript and SCSS </p> 
+<p> 🌱 I would like to learn TypeScript </p> 
 <p> 🕹 My Hobbies : reading manga / watching anime and playing video games </p> 
 
 <h2>⚛️ Languages</h2>
